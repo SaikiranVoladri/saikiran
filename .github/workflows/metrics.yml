@@ -16,7 +16,7 @@ jobs:
           token: ${{ secrets.METRICS_TOCKEN }}
 
           # Options
-          user: saicharankandukuri
+          user: Saikiran Voladri
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Calcutta
@@ -29,10 +29,10 @@ jobs:
           plugin_habits_facts: yes
           plugin_habits_charts: no
           plugin_anilist: yes
-          plugin_anilist_medias: anime
+          plugin_anilist_medias: Movies
           plugin_anilist_sections: favorites, watching
           plugin_anilist_limit: 4
-          plugin_anilist_user: zman1x1
+          plugin_anilist_user: Saikiran
           plugin_rss: yes
-          plugin_rss_source: https://saicharankandukuri.github.io/index.xml
+          plugin_rss_source: https://saikiranvoladri.github.io/my-portfolio/
           plugin_rss_limit: 4
